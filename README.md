@@ -38,7 +38,7 @@ Before running the project, ensure you have the following installed:
    ```bash
    pip install pyyaml
    ```
-![img](https://github.com/AnugyaAg/yaml_usecase/blob/f2ad796d42e51f3700be3b9a2c834075c77762d9/images/IMG1.png)
+![img1](IMG1.png)
 ## 📄 YAML File (students.yaml)
 Create a `students.yaml` file with the following structure:
 ```yaml
@@ -81,4 +81,4 @@ Students with GPA >= 3.6:
 Name: Alice, Age: 21, Major: Computer Science, GPA: 3.8
 Name: Charlie, Age: 20, Major: Physics, GPA: 3.9
 ```
-![img](https://github.com/AnugyaAg/yaml_usecase/blob/f2ad796d42e51f3700be3b9a2c834075c77762d9/images/IMG2.png)
+![img](IMG_8875.png)
